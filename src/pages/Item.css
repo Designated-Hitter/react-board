@@ -1,0 +1,6 @@
+tr.Item:hover{
+  cursor: pointer;
+  color: Red;
+  transition-duration: 500ms;
+
+}

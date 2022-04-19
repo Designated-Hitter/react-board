@@ -1,0 +1,18 @@
+div.write-box{
+  display: flex;
+  text-align: center;
+}
+div.line1{
+  flex-wrap: wrap;
+}
+
+textarea{
+  resize: none;
+  width: 400px;
+  height: 200px;
+}
+
+button.write-button{
+  width: 100px;
+  height: 50px;
+}
